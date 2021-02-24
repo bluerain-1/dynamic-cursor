@@ -18,7 +18,7 @@ window.addEventListener('mousemove',function (e){
                 cursor.style.background = `rgba(255 ,0,0,0.${number})`;
             }
         }
-        // console.log(e);
+        console.log(e);
         console.log(window.innerWidth);
         console.log(mesure);
 })
